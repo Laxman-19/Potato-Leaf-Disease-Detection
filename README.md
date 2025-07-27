@@ -1,1 +1,1 @@
-It ia a basic python code in jupyter notebook to detect healthy potato leaves.
+This is a basic python code in jupyter notebook trained on leaves image data to detect healthy potato leaves.
